@@ -386,7 +386,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-      min-height: 750px;
+      min-height: 1000px;
     padding-top: 3em;
 	float:right;
 }
