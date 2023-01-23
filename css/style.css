@@ -970,7 +970,7 @@ h6.bed.four{
 }
 /*-- Contact --*/
 .contact {
-       background: url(../images/contact.jpg)no-repeat 0px 0px;
+       background-color: #000;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
