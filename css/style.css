@@ -620,7 +620,7 @@ canvas.particles-js-canvas-el{
 }
 /*--test--*/
 #monials {
-	 background: url(../images/3.jpg)no-repeat 0px 0px;
+	 background-color: #000;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
